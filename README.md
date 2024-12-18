@@ -1,4 +1,3 @@
-# prompt: give me the detailed report of this project and mention the algorthms with there accuracy
 
 # Project Report: Diabetes Prediction
 
