@@ -60,6 +60,7 @@ The algorithms, along with their accuracy scores, are summarized in the table be
 
 A Gradio interface was created to allow users to input patient data (pregnancies, glucose, blood pressure, etc.) and receive a diabetes prediction. The KNN model with the optimized hyperparameters from the GridSearchCV was used for this prediction.
 
+! [Gradio](Screenshot 2024-12-19 032221.png)
 **Further Improvements:**
 
 *   **More Robust Missing Value Handling:**  Explore more sophisticated imputation techniques instead of simply removing rows with missing values.
